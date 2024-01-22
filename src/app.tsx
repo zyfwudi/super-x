@@ -1,9 +1,9 @@
 import * as React from 'react';
-import WhiteBoard from './pages/whiteBoard';
+import Palette from './pages/palette'
 
 const App: React.FC = () => {
   return (
-    <WhiteBoard />
+    <Palette />
   )
 }
 
